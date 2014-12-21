@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cothing_id: 
+  outerwear_size: MyString
+  outerwear_type: MyString
+
+two:
+  cothing_id: 
+  outerwear_size: MyString
+  outerwear_type: MyString

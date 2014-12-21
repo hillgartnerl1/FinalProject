@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  clothing_id: 
+  shoe_size: 1
+  shoe_type: MyString
+
+two:
+  clothing_id: 
+  shoe_size: 1
+  shoe_type: MyString
